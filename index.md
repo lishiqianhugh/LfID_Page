@@ -1,3 +1,14 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
 <hr>
 
 <h2 style="text-align: center"> Abstract </h2>
@@ -40,4 +51,3 @@ $P(y|X_0) = f(D;\theta)$, where $D = g(X_0;\phi)$
 <h2 style="text-align: center"> Bibtex </h2>
 
 <div class="gap-10"></div>
-
