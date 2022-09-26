@@ -1,4 +1,4 @@
-# On the Learning Mechanisms in Physical Reasoning
+<!-- # On the Learning Mechanisms in Physical Reasoning -->
 <!-- [[Paper](https://github.com/lishiqianhugh/LfID)]
 [[Supp](https://drive.google.com/file/d/16F0rhNT2Kx5prRRyRldWphZ-RvcxFaKs/view?usp=sharing)]
 [[Code](https://github.com/lishiqianhugh/LfID)] -->
