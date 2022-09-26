@@ -28,12 +28,12 @@ Is dynamics prediction indispensable for physical reasoning? If so, what kind of
 ### Learning from Intuition (LfI)
 Directly learn the final outcome $y$ from intial images and actions by a task-solution model $f$.
 
-$P(y|X_0) = f(X_0;\theta)$
+$$P(y|X_0) = f(X_0;\theta)$$
 
 ### Learning from Dynamics (LfD)
 Predict dynamics $D = \\{X_t | t = 0, 1, \ldots, T\\}$ by a dynamics prediction model $g$ first.
 
-$P(y|X_0) = f(D;\theta)$, where $D = g(X_0;\phi)$
+$$P(y|X_0) = f(D;\theta)$, where $D = g(X_0;\phi)$$
 
 <hr>
 
