@@ -17,8 +17,8 @@ Predict dynamics $D = \\{X_t | t = 0, 1, \ldots, T\\}$ by a dynamics prediction 
 
 $P(y|X_0) = f(D;\theta)$, where $D = g(X_0;\phi)$
 ## Experiments
-### Exp 1
-### Exp 2
-### Exp 3
-### Exp 4
+* **Exp 1 - LfD vs. LfI**: An interesting finding that a binary-classification model outperforms SOTA dynamics-based model.
+* **Exp 2 - LfD under GD**: Do ground-truth dynamics help make better decisions than intuition?
+* **Exp 3 - LfD under AD**: How do approximate dynamics perform?
+* **Exp 4 - More on LfI**: How does LfI perform?
 ## Bibtex
