@@ -54,4 +54,16 @@ $$D = g(X_0;\phi)$$
 
 <h2 style="text-align: center"> Bibtex </h2>
 
+> @inproceedings{li2022on,
+>
+>   title={On the Learning Mechanisms in Physical Reasoning},
+> 
+>   author={Li, Shiqian and Wu, Kewen and Zhang, Chi and Zhu, Yixin},
+> 
+>   booktitle={NeurIPS},
+> 
+>   year={2022}
+> 
+> }
+
 <div class="gap-10"></div>
