@@ -52,10 +52,6 @@ $$D = g(X_0;\phi)$$
 
 <hr>
 
-<embed src="https://vimeo.com/758992548" allowfullscreen="true" width="425" height="344">
-
-<hr>
-
 <h2 style="text-align: center"> Bibtex </h2>
 
 > @inproceedings{li2022on,
